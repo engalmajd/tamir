@@ -1,0 +1,17 @@
+C:\Users\majda\OneDrive\Desktop\majd2\majd2\bin\Debug\net8.0-windows\majd2.exe
+C:\Users\majda\OneDrive\Desktop\majd2\majd2\bin\Debug\net8.0-windows\majd2.deps.json
+C:\Users\majda\OneDrive\Desktop\majd2\majd2\bin\Debug\net8.0-windows\majd2.runtimeconfig.json
+C:\Users\majda\OneDrive\Desktop\majd2\majd2\bin\Debug\net8.0-windows\majd2.dll
+C:\Users\majda\OneDrive\Desktop\majd2\majd2\bin\Debug\net8.0-windows\majd2.pdb
+C:\Users\majda\OneDrive\Desktop\majd2\majd2\obj\Debug\net8.0-windows\majd2.Form1.resources
+C:\Users\majda\OneDrive\Desktop\majd2\majd2\obj\Debug\net8.0-windows\majd2.csproj.GenerateResource.cache
+C:\Users\majda\OneDrive\Desktop\majd2\majd2\obj\Debug\net8.0-windows\majd2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\majda\OneDrive\Desktop\majd2\majd2\obj\Debug\net8.0-windows\majd2.AssemblyInfoInputs.cache
+C:\Users\majda\OneDrive\Desktop\majd2\majd2\obj\Debug\net8.0-windows\majd2.AssemblyInfo.cs
+C:\Users\majda\OneDrive\Desktop\majd2\majd2\obj\Debug\net8.0-windows\majd2.csproj.CoreCompileInputs.cache
+C:\Users\majda\OneDrive\Desktop\majd2\majd2\obj\Debug\net8.0-windows\majd2.dll
+C:\Users\majda\OneDrive\Desktop\majd2\majd2\obj\Debug\net8.0-windows\refint\majd2.dll
+C:\Users\majda\OneDrive\Desktop\majd2\majd2\obj\Debug\net8.0-windows\majd2.pdb
+C:\Users\majda\OneDrive\Desktop\majd2\majd2\obj\Debug\net8.0-windows\majd2.genruntimeconfig.cache
+C:\Users\majda\OneDrive\Desktop\majd2\majd2\obj\Debug\net8.0-windows\ref\majd2.dll
+C:\Users\majda\OneDrive\Desktop\majd2\majd2\obj\Debug\net8.0-windows\majd2.Properties.Resources.resources
